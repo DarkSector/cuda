@@ -1,2 +1,2 @@
-# cuda
-All things bare metal cuda
+# CUDA
+All things bare metal CUDA
